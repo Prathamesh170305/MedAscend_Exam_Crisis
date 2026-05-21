@@ -1,0 +1,29 @@
+# --- secrets (NEVER commit) ---
+.env
+.env.local
+*.key
+*.pem
+api-keys.txt
+
+# --- python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- node ---
+node_modules/
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- editor ---
+.vscode/
+.idea/
+
+# --- generated build / cache ---
+.cache/
+dist/
+*.log
