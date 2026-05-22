@@ -18,30 +18,30 @@
 - [x] **locked 2026-05-21** — 2. Medical Jurisprudence  *(11 diagrams · 9 DTs · 11 subjective entries · 44 MCQs (11 PYQs) · self-audit ✅)*
 
 ### Identification & Osteology
-- [ ] pending — 3. Identification
-- [ ] pending — 4. Forensic Osteology
-- [ ] pending — 5. DNA Profiling
+- [x] **locked 2026-05-21** — 3. Identification  *(10 diagrams · 63 ⓘ nodes · 6 DTs · 7 subjective entries (6 SAQ + 1 LAQ) · 46 MCQs (10 PYQs: 2016 Q10/Q13/Q14/Q15/Q16, 2018 Q2/Q6, 2019 Q5, 2020 Q3, 2024 Q1) · 37 high-yield · self-audit ✅)*
+- [x] **locked 2026-05-21** — 4. Forensic Osteology  *(10 diagrams · 56 ⓘ nodes · 6 DTs · 7 subjective entries (4 SAQ + 3 LAQ) · 51 MCQs · 45 high-yield)*
+- [x] **locked 2026-05-21** — 5. DNA Profiling  *(10 diagrams · 57 ⓘ nodes · 6 DTs · 7 subjective entries (4 SAQ + 3 LAQ) · 39 MCQs · 42 high-yield)*
 
 ### Death Investigation & Thanatology
-- [ ] pending — 6. Medicolegal Autopsy
+- [x] **locked 2026-05-21** — 6. Medicolegal Autopsy  *(10 diagrams · 64 ⓘ nodes · 6 DTs · 7 subjective entries (5 SAQ + 1 LAQ + 1 inspired LAQ) · 44 MCQs (12 PYQs: 2016 Q27, 2018 Q14, 2019 Q4, 2020 Q8, 2022 Q9, 2023 Q3/Q4/Q5, 2024 Q2) · 39 high-yield · self-audit ✅)*
 - [x] **locked 2026-05-21** — 7. Death and Changes after Death  *(12 diagrams · 64 ⓘ nodes · 8 DTs · 11 subjective entries · 49 MCQs · 30 high-yield · self-audit ✅)*
 
 ### Injury — Mechanical
-- [ ] pending — 8. Injury: General Considerations and Biophysics
-- [ ] pending — 9. Mechanical Injury
-- [ ] pending — 10. Firearm Injuries and Bomb Blast Injuries
-- [ ] pending — 11. Regional Injuries
+- [x] **locked 2026-05-21** — 8. Injury: General Considerations and Biophysics  *(10 diagrams · 54 ⓘ nodes · 6 DTs · 7 subjective entries (4 SAQ + 3 LAQ) · 37 MCQs (1 PYQ: 2016 Q27 via DT-5) · 43 high-yield)*
+- [x] **locked 2026-05-21** — 9. Mechanical Injury  *(10 diagrams · 64 ⓘ nodes · 6 DTs · 7 subjective entries (5 SAQ + 2 LAQ) · 32 MCQs (4 PYQs) · 24 high-yield)*
+- [x] **locked 2026-05-21** — 10. Firearm Injuries and Bomb Blast Injuries  *(10 diagrams · 61 ⓘ nodes · 6 DTs · 7 subjective (5 SAQ + 2 LAQ) · 39 MCQs (4 PYQs) · 33 high-yield)*
+- [x] **locked 2026-05-21** — 11. Regional Injuries  *(10 diagrams · 66 ⓘ nodes · 6 DTs · 7 subjective entries (4 SAQ + 2 LAQ + 1 inspired LAQ) · 58 MCQs (2 PYQs: 2018 Q11, 2020 Q10) · 42 high-yield)*
 - [ ] pending — 12. Road Traffic Accidents
-- [ ] pending — 13. Injury: Medicolegal Considerations
+- [x] **locked 2026-05-21** — 13. Injury: Medicolegal Considerations  *(7 diagrams · 43 ⓘ nodes · 4 DTs · 4 subjective (3 SAQ + 1 LAQ) · 28 MCQs (4 PYQs) · 30 high-yield)*
 
 ### Injury — Thermal & Environmental
-- [ ] pending — 14. Thermal Injuries
+- [x] **locked 2026-05-21** — 14. Thermal Injuries  *(11 diagrams · 76 ⓘ nodes · 6 DTs · 9 subjective entries (7 SAQ + 2 LAQ) · 56 MCQs (6 PYQs: 2016 Q4/Q28/Q31, 2021 Q3/Q9, 2023 Q1) · 36 high-yield)*
 
 ### Asphyxial Deaths
 - [x] **locked 2026-05-21** — 15. Violent Asphyxia  *(10 diagrams · 55 ⓘ nodes · 4 DTs · 5 subjective entries · 32 MCQs (4 PYQs) · 20 high-yield · self-audit ✅)*
 
 ### Sexual Jurisprudence
-- [ ] pending — 16. Virginity, Sexual Offenses and Perversions
+- [x] **locked 2026-05-21** — 16. Virginity, Sexual Offenses and Perversions  *(10 diagrams · 47 ⓘ nodes · 6 DTs · 5 subjective entries (2 SAQ + 3 LAQ) · 41 MCQs · 44 high-yield)*
 - [ ] pending — 17. Impotence, Sterility and Sterilization
 
 ### Pregnancy, Delivery & Reproduction
@@ -111,4 +111,4 @@
 - Section B (Toxicology): **19 chapters**
 - **Grand total: 50 chapters**
 
-Locked: 4 / 50.
+Locked: 15 / 50.
